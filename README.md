@@ -65,7 +65,8 @@ Before running this project, ensure you have the following installed:
 
 5. **Run the Development Server**
     Start the development server by running the following command:
-    npm run dev
+
+      npm run dev
 
 
 
