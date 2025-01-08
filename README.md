@@ -48,6 +48,7 @@ Before running this project, ensure you have the following installed:
 2. **Install Dependencies**
 
     Next, install the project dependencies using npm:
+
     npm install
    
 4. **Set Up Environment Variables**
