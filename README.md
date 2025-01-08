@@ -25,6 +25,26 @@ TrustLens is a professional website designed to build credibility and foster tru
 - **daisyUI**: A TailwindCSS-based library for pre-styled UI components.
 - **React Icons**: For adding scalable vector icons.
 
+## Dependencies
+This project uses the following main dependencies:
+
+- `axios`: ^1.7.9 - Promise-based HTTP client for the browser and Node.js.
+- `firebase`: ^11.1.0 - Firebase SDK for integrating Firebase services.
+- `react`: ^18.3.1 - A JavaScript library for building user interfaces.
+- `react-dom`: ^18.3.1 - Serves as the entry point for DOM-related rendering paths in React.
+- `react-router-dom`: ^7.1.1 - DOM bindings for React Router, enabling dynamic routing.
+- `react-icons`: ^5.4.0 - Icon library for React with popular icons.
+- `react-helmet-async`: ^2.0.5 - Manage changes to the document head in React.
+- `sweetalert2`: ^11.15.3 - Beautiful, responsive, customizable replacement for JavaScript's alert.
+- `swiper`: ^11.1.15 - A modern touch slider library.
+
+## Dev Dependencies
+For development purposes, the following dependencies are used:
+
+- `eslint`: ^9.17.0 - A tool for identifying and reporting on patterns found in JavaScript code.
+- `tailwindcss`: ^3.4.17 - Utility-first CSS framework.
+- `vite`: ^6.0.5 - Next-generation, fast build tool and development server for modern web apps.
+
 
 ## Getting Started
 
